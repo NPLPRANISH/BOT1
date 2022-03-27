@@ -1,0 +1,3 @@
+        "ip":"NPL_PRANISH.aternos.me",
+        "port":"46821",
+        "name":"bot1"
